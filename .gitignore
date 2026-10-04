@@ -1,0 +1,6 @@
+config.py
+prices.db
+__pycache__/
+*.pyc
+Dockerfile.zip
+*.db-journal
